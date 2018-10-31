@@ -1,0 +1,42 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "We are testing\n[[Go to the next node|NextNode]]\n",
+		"position": {
+			"x": 113,
+			"y": 204
+		},
+		"colorID": 0
+	},
+	{
+		"title": "NextNode",
+		"tags": "",
+		"body": "This is the next node\n[[Go to Node 2|Node2]]\n[[Go to Node 3|Node3]]\n",
+		"position": {
+			"x": 488,
+			"y": 210
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Node2",
+		"tags": "",
+		"body": "This is node 2\n",
+		"position": {
+			"x": 832,
+			"y": 97
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Node3",
+		"tags": "",
+		"body": "This is Node 3\n",
+		"position": {
+			"x": 826,
+			"y": 374
+		},
+		"colorID": 0
+	}
+]
